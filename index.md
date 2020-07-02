@@ -1,4 +1,6 @@
-# ¿Quién soy?                                        <div style="text-align: right">[Servicios](servicios.md)</div>
+# ¿Quién soy?
+
+[Servicios](servicios.md)
 
 ![alt text](portada2.jpg)
 
