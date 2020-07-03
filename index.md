@@ -34,7 +34,7 @@ Mi enfoque es totalmente comunicativo. Olvídate de las soporíferas clases de s
 - Clases de conversación*  
 - Traducciones para empresas de todo tipo de documentos: Tecnicos, divulgativos, informativos, literarios.  
 
-*Todas las formulas pueden ser  presenciales o por skype. (ponerlo por guiones)  
+*Todas las formulas pueden ser  presenciales o por skype.
 
 ![alt text](F4.jpg)
 
@@ -48,20 +48,32 @@ Mi enfoque es totalmente comunicativo. Olvídate de las soporíferas clases de s
 
 ## Mis publicaciones:
 
-Literatura:  
+#Literatura:  
 
-Mis libros: - La catarsis de un bufón sin nombre (foto)
-                  - Poemas para Warta y el súbito despertar del tiempo (foto)
+Mis libros: 
 
-Plaquettes: - Ellas (foto)
-                  - Desnudándonos del polvo (foto)
+- La catarsis de un bufón sin nombre (Editorial SELEER, 2013)
 
-Colaboraciones: - Oviedo libro abierto (foto)
-                           - Primavera eterna (foto)
-                           - Planetario de Pamplona (foto)
+- Poemas para Warta y el súbito despertar del tiempo (Mystica, 2016)
 
-Publicaciones academicas:
+Plaquettes: 
+
+- Ellas (2018)
+                  
+- Desnudándonos del polvo (2019)
+
+Colaboraciones:
+
+- Oviedo libro abierto (Ediciones Trea, 2017)
+                            
+- Primavera eterna (Minimal, 2015)
+
+- Planetario de Pamplona (PLanetario de Pamplona, 2019)
+
+#Publicaciones academicas:
+
 - L’effet de l’enseignement des stratégies d’écoute sur les apprenants de niveau débutant en utilisant des matériels multimédia authentiques. UPNA, 2018. Sous la direction de: Hanne Roothooft.
+
 - Los retos del turismo ante el cambio climático: movilidad y crisis energética. Universidad de Oviedo, 2010. Bajo la dirección de : José Manuel Pérez.
 
 
