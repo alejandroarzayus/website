@@ -48,7 +48,7 @@ Mi enfoque es totalmente comunicativo. Olvídate de las soporíferas clases de s
 
 ## Mis publicaciones:
 
-#Literatura:  
+### Literatura:  
 
 Mis libros: 
 
@@ -70,7 +70,7 @@ Colaboraciones:
 
 - Planetario de Pamplona (PLanetario de Pamplona, 2019)
 
-#Publicaciones academicas:
+### Publicaciones academicas:
 
 - L’effet de l’enseignement des stratégies d’écoute sur les apprenants de niveau débutant en utilisant des matériels multimédia authentiques. UPNA, 2018. Sous la direction de: Hanne Roothooft.
 
