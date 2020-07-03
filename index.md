@@ -52,7 +52,7 @@ Mi enfoque es totalmente comunicativo. Olvídate de las soporíferas clases de s
 
 Mis libros: 
 
-- La catarsis de un bufón sin nombre (Editorial SELEER, 2013)
+- La catarsis de un bufón sin nombre (Editorial Seleer, 2013)
 
 - Poemas para Warta y el súbito despertar del tiempo (Mystica, 2016)
 
