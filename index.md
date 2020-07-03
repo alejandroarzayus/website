@@ -68,7 +68,7 @@ Colaboraciones:
                             
 - Primavera eterna (Minimal, 2015)
 
-- Mirada de artistas (Planetario de Pamplona, 2019)
+- Miradas de artistas (Planetario de Pamplona, 2019)
 
 ### Publicaciones academicas:
 
