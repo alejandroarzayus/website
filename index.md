@@ -68,7 +68,7 @@ Colaboraciones:
                             
 - Primavera eterna (Minimal, 2015)
 
-- Planetario de Pamplona (PLanetario de Pamplona, 2019)
+- Planetario de Pamplona (Planetario de Pamplona, 2019)
 
 ### Publicaciones academicas:
 
